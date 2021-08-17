@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/blairdrummond/fake-kubeflow-profiles.git
+    repoURL: https://github.com/Nancy-Badran/fake-kubeflow-profiles.git
     targetRevision: master
     path: profiles
   syncPolicy:

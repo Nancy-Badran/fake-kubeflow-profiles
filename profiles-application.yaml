@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/blairdrummond/fake-kubeflow-profiles.git'
+    repoURL: 'https://github.com/Nancy-Badran/fake-kubeflow-profiles.git'
     path: profiles
     targetRevision: master
   destination:
